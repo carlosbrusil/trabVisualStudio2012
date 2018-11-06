@@ -1,0 +1,19 @@
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosDEBER\bin\Debug\EjerciciosDEBER.exe
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosDEBER\bin\Debug\EjerciciosDEBER.pdb
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosDEBER\bin\Debug\EjerciciosDEBER.xml
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio1.resources
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Resources.resources
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.vbproj.GenerateResource.Cache
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.exe
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.xml
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.pdb
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.exe
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.xml
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.pdb
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\bin\Debug\EjerciciosDEBER.exe
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\bin\Debug\EjerciciosDEBER.pdb
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\bin\Debug\EjerciciosDEBER.xml
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio1.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Resources.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.vbproj.GenerateResource.Cache
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio2.resources
