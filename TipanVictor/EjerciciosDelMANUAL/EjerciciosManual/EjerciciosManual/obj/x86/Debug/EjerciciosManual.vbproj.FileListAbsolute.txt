@@ -1,0 +1,23 @@
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosManual\bin\Debug\EjerciciosManual.exe
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosManual\bin\Debug\EjerciciosManual.pdb
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosManual\bin\Debug\EjerciciosManual.xml
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosManual\obj\x86\Debug\EjerciciosManual.Ejercicio3.resources
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosManual\obj\x86\Debug\EjerciciosManual.Resources.resources
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosManual\obj\x86\Debug\EjerciciosManual.vbproj.GenerateResource.Cache
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosManual\obj\x86\Debug\EjerciciosManual.exe
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosManual\obj\x86\Debug\EjerciciosManual.xml
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\EjerciciosManual\obj\x86\Debug\EjerciciosManual.pdb
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.exe
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.xml
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.pdb
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\bin\Debug\EjerciciosManual.exe
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\bin\Debug\EjerciciosManual.pdb
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\bin\Debug\EjerciciosManual.xml
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.Ejercicio3.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio4.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.Resources.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.vbproj.GenerateResource.Cache
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio5.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio6.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio7.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio8.resources
