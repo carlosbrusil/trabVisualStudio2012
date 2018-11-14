@@ -21,3 +21,4 @@ C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosD
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio6.resources
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio7.resources
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio8.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio9.resources
