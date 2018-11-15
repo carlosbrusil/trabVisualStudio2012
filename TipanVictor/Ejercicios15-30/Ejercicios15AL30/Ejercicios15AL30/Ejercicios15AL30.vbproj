@@ -91,6 +91,18 @@
     <Compile Include="frm_Ejercicio17.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frm_Ejercicio18.Designer.vb">
+      <DependentUpon>frm_Ejercicio18.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ejercicio19.Designer.vb">
+      <DependentUpon>frm_Ejercicio19.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio19.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -116,6 +128,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frm_Ejercicio17.resx">
       <DependentUpon>frm_Ejercicio17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio18.resx">
+      <DependentUpon>frm_Ejercicio18.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio19.resx">
+      <DependentUpon>frm_Ejercicio19.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

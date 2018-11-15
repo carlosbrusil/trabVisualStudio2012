@@ -1,5 +1,4 @@
-﻿Public Class frm_Ejercicio17
-
+﻿Public Class frm_Ejercicio18
     Private Sub txtDia_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtDia.TextChanged
         If Val(txtDia.Text) < 0 Or Val(txtDia.Text) > 31 Then
             MsgBox("valor debe ser entre 1 y 31 ", MsgBoxStyle.Information, "error")
@@ -35,33 +34,6 @@
 
         End If
     End Sub
-
-    Private Sub txtAño_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtAño.TextChanged
-
-    End Sub
-
-    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
-        Select Case Val(Me.TxtMes.Text)
-            Case 1 To 3 : Me.LblMensaje.Text = "Primer Trimestre"
-            Case 4 To 6 : Me.LblMensaje.Text = "Segundo Trimestre"
-            Case 7 To 9 : Me.LblMensaje.Text = "terer trimestre"
-            Case 10 To 12 : Me.LblMensaje.Text = "cuarto trimestre"
-        End Select
-    End Sub
-
-    Private Sub frm_Ejercicio17_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
-        Dim res As MsgBoxResult
-        res = MsgBox("desea cerrar el formulario ", MsgBoxStyle.YesNo, "cuidado")
-        If res = MsgBoxResult.No Then
-            ' respondio que no
-            e.Cancel = True
-        End If
-    End Sub
-
-    Private Sub frm_Ejercicio17_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
-    End Sub
-
     Private Sub btnSalir_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSalir.Click
         Me.Close()
     End Sub
@@ -72,5 +44,25 @@
         txtAño.Text = ""
         txtDia.Focus()
         LblMensaje.Text = ""
+    End Sub
+
+    Private Sub frm_Ejercicio18_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
+        Dim res As MsgBoxResult
+        res = MsgBox("desea cerrar el formulario ", MsgBoxStyle.YesNo, "cuidado")
+        If res = MsgBoxResult.No Then
+            ' respondio que no
+            e.Cancel = True
+        End If
+    End Sub
+
+    Private Sub frm_Ejercicio18_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        If Val(txtDia.Text) = 24 And Val(TxtMes.Text) = 12 Then
+            MsgBox("Merry Chistmas -  Es Navidad ", MsgBoxStyle.Exclamation, "NAVIDAD")
+            LblMensaje.Text = "Es Navidad"
+        End If
     End Sub
 End Class

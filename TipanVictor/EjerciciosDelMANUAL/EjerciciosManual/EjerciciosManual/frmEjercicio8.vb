@@ -13,17 +13,17 @@
         Call limpia()
     End Sub
     Sub limpia()
-        Me.txtProducto.Text = ""
-        Me.txtCantComp.Text = ""
-        Me.txtPrecUnit.Text = ""
-        Me.lblDescD.Text = ""
-        Me.lblDesPor.Text = ""
+        Me.txtAlumno.Text = ""
+        Me.txtNota1.Text = ""
+        Me.txtCurso.Text = ""
+        Me.lblObs.Text = ""
+        Me.lblPromedio.Text = ""
         Me.lblSubtotal.Text = ""
-        Me.lblTotal.Text = ""
-        Me.txtProducto.Focus()
+        Me.lblPuntos.Text = ""
+        Me.txtAlumno.Focus()
     End Sub
 
-    Private Sub btnNuevo_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnNuevo.Click
+    Private Sub btnNuevo_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnOtro.Click
         Call limpia()
     End Sub
 
@@ -31,9 +31,9 @@
         Me.Close()
     End Sub
 
-    Private Sub btnCalcular_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCalcular.Click
+    Private Sub btnCalcular_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnObtener.Click
         Dim desc As Integer
-        Me.lblSubtotal.Text = CStr(Val(Me.txtCantComp.Text) * Val(Me.txtPrecUnit.Text))
+        Me.lblSubtotal.Text = CStr(Val(Me.txtNota1.Text) * Val(Me.txtCurso.Text))
         Select Case Val(Me.lblSubtotal.Text)
             Case 100, 101 : desc = 2
             Case 101.1 To 200 : desc = 4
@@ -41,9 +41,9 @@
             Case Is > 500 : desc = 10
             Case Else : desc = 0
         End Select
-        Me.lblDesPor.Text = CStr(desc)
-        Me.lblDescD.Text = Format(Val(Me.lblSubtotal.Text) * desc / 100, "###,##0.00")
-        Me.lblTotal.Text = Format(Val(lblSubtotal.Text) - Val(lblDescD.Text), "###,##0.00")
+        Me.lblPromedio.Text = CStr(desc)
+        Me.lblObs.Text = Format(Val(Me.lblSubtotal.Text) * desc / 100, "###,##0.00")
+        Me.lblPuntos.Text = Format(Val(lblSubtotal.Text) - Val(lblDescD.Text), "###,##0.00")
         Me.lblSubtotal.Text = Format(Val(Me.lblSubtotal.Text), "###,##0.00")
 
     End Sub

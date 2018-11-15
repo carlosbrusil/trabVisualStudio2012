@@ -47,4 +47,8 @@
     Private Sub btnSalir_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSalir.Click
         Me.Close()
     End Sub
+
+    Private Sub txt1erNro_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txt1erNro.TextChanged
+
+    End Sub
 End Class
