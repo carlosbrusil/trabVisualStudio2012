@@ -17,11 +17,3 @@ C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosD
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Resources.resources
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.vbproj.GenerateResource.Cache
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio2.resources
-C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio3.resources
-C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio4.resources
-C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio5.resources
-C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio6.resources
-C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio7.resources
-C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio8.resources
-C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.Ejercicio9.resources
-C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDEBER\EjerciciosDEBER\obj\x86\Debug\EjerciciosDEBER.EjercicioDIEZ.resources

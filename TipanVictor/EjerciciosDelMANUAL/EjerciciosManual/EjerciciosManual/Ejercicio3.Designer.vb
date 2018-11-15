@@ -180,6 +180,7 @@ Partial Class Ejercicio3
         Me.Controls.Add(Me.txtNombre)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Ejercicio3"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Form1"
         Me.ResumeLayout(False)
         Me.PerformLayout()

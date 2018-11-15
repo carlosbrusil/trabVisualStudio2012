@@ -21,3 +21,10 @@ C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosD
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio6.resources
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio7.resources
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio8.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio9.resources
+<<<<<<< HEAD
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio10.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.frmEjercicio11.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\EjerciciosDelMANUAL\EjerciciosManual\EjerciciosManual\obj\x86\Debug\EjerciciosManual.MENUPRINCIPAL.resources
+=======
+>>>>>>> f053a2eae762c614c11bcb7d9380b2f3b3570e21
