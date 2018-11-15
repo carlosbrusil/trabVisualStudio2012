@@ -2,7 +2,11 @@
 <MyApplicationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MySubMain>true</MySubMain>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <MainForm>MENUPRINCIPAL</MainForm>
+=======
+  <MainForm>frmEjercicio4</MainForm>
+>>>>>>> f053a2eae762c614c11bcb7d9380b2f3b3570e21
 =======
   <MainForm>frmEjercicio4</MainForm>
 >>>>>>> f053a2eae762c614c11bcb7d9380b2f3b3570e21

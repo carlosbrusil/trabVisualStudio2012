@@ -103,6 +103,30 @@
     <Compile Include="frm_Ejercicio19.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frm_Ejercicio20.Designer.vb">
+      <DependentUpon>frm_Ejercicio20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ejercicio21.Designer.vb">
+      <DependentUpon>frm_Ejercicio21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ejercicio22.Designer.vb">
+      <DependentUpon>frm_Ejercicio22.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ejercicio23.Designer.vb">
+      <DependentUpon>frm_Ejercicio23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio23.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -134,6 +158,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frm_Ejercicio19.resx">
       <DependentUpon>frm_Ejercicio19.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio20.resx">
+      <DependentUpon>frm_Ejercicio20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio21.resx">
+      <DependentUpon>frm_Ejercicio21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio22.resx">
+      <DependentUpon>frm_Ejercicio22.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio23.resx">
+      <DependentUpon>frm_Ejercicio23.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

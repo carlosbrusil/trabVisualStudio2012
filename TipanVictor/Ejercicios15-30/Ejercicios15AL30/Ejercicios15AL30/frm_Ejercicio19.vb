@@ -21,4 +21,17 @@
     Private Sub btnSalir_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSalir.Click
         Me.Close()
     End Sub
+
+    Private Sub frm_Ejercicio19_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
+        Dim res As MsgBoxResult
+        res = MsgBox("desea cerrar el formulario ", MsgBoxStyle.YesNo, "cuidado")
+        If res = MsgBoxResult.No Then
+            ' respondio que no
+            e.Cancel = True
+        End If
+    End Sub
+
+    Private Sub frm_Ejercicio19_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class

@@ -33,7 +33,11 @@ Namespace My
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
 <<<<<<< HEAD
+<<<<<<< HEAD
             Me.MainForm = Global.EjerciciosManual.MENUPRINCIPAL
+=======
+            Me.MainForm = Global.EjerciciosManual.frmEjercicio4
+>>>>>>> f053a2eae762c614c11bcb7d9380b2f3b3570e21
 =======
             Me.MainForm = Global.EjerciciosManual.frmEjercicio4
 >>>>>>> f053a2eae762c614c11bcb7d9380b2f3b3570e21

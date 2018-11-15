@@ -20,3 +20,20 @@ C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios1
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio17.resources
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio18.resources
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio19.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.exe
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.xml
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.pdb
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio15.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio16.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio17.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio18.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio19.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio20.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.Resources.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.vbproj.GenerateResource.Cache
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\bin\Debug\Ejercicios15AL30.exe
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\bin\Debug\Ejercicios15AL30.pdb
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\bin\Debug\Ejercicios15AL30.xml
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio21.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio22.resources
+F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio23.resources
