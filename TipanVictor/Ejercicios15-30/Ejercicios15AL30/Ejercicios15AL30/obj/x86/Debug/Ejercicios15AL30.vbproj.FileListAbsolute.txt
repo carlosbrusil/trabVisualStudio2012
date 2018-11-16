@@ -37,3 +37,15 @@ F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\bin\Debug\Ejercicios15AL30.
 F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio21.resources
 F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio22.resources
 F:\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio23.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio20.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio21.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio22.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio23.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_ejercicio24.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_ejercicio25.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_ejercicio26.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio27.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio29.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio28.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_Ejercicio30.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios15-30\Ejercicios15AL30\Ejercicios15AL30\obj\x86\Debug\Ejercicios15AL30.frm_MENUPRINCIPAL.resources
