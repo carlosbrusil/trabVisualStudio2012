@@ -1,0 +1,24 @@
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\bin\Debug\Ejercicios31AL40.exe
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\bin\Debug\Ejercicios31AL40.pdb
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\bin\Debug\Ejercicios31AL40.xml
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio31.resources
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.Resources.resources
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.vbproj.GenerateResource.Cache
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.exe
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.xml
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.pdb
+C:\Users\USUARIO 1\AppData\Local\Temporary Projects\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio32.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.exe
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.xml
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.pdb
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\bin\Debug\Ejercicios31AL40.exe
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\bin\Debug\Ejercicios31AL40.pdb
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\bin\Debug\Ejercicios31AL40.xml
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio31.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio32.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio33.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.Resources.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.vbproj.GenerateResource.Cache
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_MENUPRINCIPAL.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio35.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio36.resources
