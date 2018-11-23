@@ -91,6 +91,12 @@
     <Compile Include="frm_Ejercicio33.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frm_Ejercicio34.Designer.vb">
+      <DependentUpon>frm_Ejercicio34.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio34.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frm_Ejercicio35.Designer.vb">
       <DependentUpon>frm_Ejercicio35.vb</DependentUpon>
     </Compile>
@@ -101,6 +107,30 @@
       <DependentUpon>frm_Ejercicio36.vb</DependentUpon>
     </Compile>
     <Compile Include="frm_Ejercicio36.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ejercicio37.Designer.vb">
+      <DependentUpon>frm_Ejercicio37.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio37.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ejercicio38.Designer.vb">
+      <DependentUpon>frm_Ejercicio38.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio38.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ejercicio39.Designer.vb">
+      <DependentUpon>frm_Ejercicio39.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio39.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ejercicio40.Designer.vb">
+      <DependentUpon>frm_Ejercicio40.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ejercicio40.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frm_MENUPRINCIPAL.Designer.vb">
@@ -135,11 +165,26 @@
     <EmbeddedResource Include="frm_Ejercicio33.resx">
       <DependentUpon>frm_Ejercicio33.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio34.resx">
+      <DependentUpon>frm_Ejercicio34.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_Ejercicio35.resx">
       <DependentUpon>frm_Ejercicio35.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_Ejercicio36.resx">
       <DependentUpon>frm_Ejercicio36.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio37.resx">
+      <DependentUpon>frm_Ejercicio37.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio38.resx">
+      <DependentUpon>frm_Ejercicio38.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio39.resx">
+      <DependentUpon>frm_Ejercicio39.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ejercicio40.resx">
+      <DependentUpon>frm_Ejercicio40.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_MENUPRINCIPAL.resx">
       <DependentUpon>frm_MENUPRINCIPAL.vb</DependentUpon>

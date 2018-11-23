@@ -4,10 +4,14 @@
 
     Private Sub btnNuevo_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnNuevo.Click
         ListBox1.Items.Clear()
+        Me.btnNuevo.Enabled = False
+        Me.btnCalcular.Enabled = True
     End Sub
 
     Private Sub btnCalcular_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCalcular.Click
         Dim i, serie As Integer
+        Me.btnCalcular.Enabled = False
+        Me.btnNuevo.Enabled = True
         serie = 11
         For i = 1 To 25
             ListBox1.Items.Add("                             " + Format(i, "000") + "=========> " + CStr(serie))

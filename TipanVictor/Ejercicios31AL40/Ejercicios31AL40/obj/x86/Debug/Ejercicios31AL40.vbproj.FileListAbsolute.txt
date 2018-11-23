@@ -22,3 +22,8 @@ C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios3
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_MENUPRINCIPAL.resources
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio35.resources
 C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio36.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio34.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio37.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio38.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio39.resources
+C:\Users\USUARIO 1\Documents\GitHub\trabVisualStudio2012\TipanVictor\Ejercicios31AL40\Ejercicios31AL40\obj\x86\Debug\Ejercicios31AL40.frm_Ejercicio40.resources

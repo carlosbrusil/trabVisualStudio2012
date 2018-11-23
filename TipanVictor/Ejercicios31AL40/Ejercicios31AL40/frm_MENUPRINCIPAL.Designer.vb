@@ -43,7 +43,7 @@ Partial Class frm_MENUPRINCIPAL
         Me.Button10.Name = "Button10"
         Me.Button10.Size = New System.Drawing.Size(125, 67)
         Me.Button10.TabIndex = 174
-        Me.Button10.Text = "Ejercicio 24   Rango entre dos numeros"
+        Me.Button10.Text = "Ejercicio 40   Cuentas Corrientes "
         Me.Button10.UseVisualStyleBackColor = True
         '
         'Button9
@@ -53,7 +53,7 @@ Partial Class frm_MENUPRINCIPAL
         Me.Button9.Name = "Button9"
         Me.Button9.Size = New System.Drawing.Size(125, 67)
         Me.Button9.TabIndex = 173
-        Me.Button9.Text = "Ejercicio 23   Ssueldos de Operario"
+        Me.Button9.Text = "Ejercicio 39  Acumular hasta leer 9999"
         Me.Button9.UseVisualStyleBackColor = True
         '
         'Button8
@@ -63,7 +63,7 @@ Partial Class frm_MENUPRINCIPAL
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(125, 67)
         Me.Button8.TabIndex = 172
-        Me.Button8.Text = "Ejercicio 22   Reportar de que cuadrante es  pto"
+        Me.Button8.Text = "Ejercicio 38  Pesos de piezas en intervalos"
         Me.Button8.UseVisualStyleBackColor = True
         '
         'Button7
@@ -73,7 +73,7 @@ Partial Class frm_MENUPRINCIPAL
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(125, 67)
         Me.Button7.TabIndex = 171
-        Me.Button7.Text = "Ejercicio 21   Reportar si  un  Nro es < 10"
+        Me.Button7.Text = "Ejercicio 37   Leer nros hasta  leer 0"
         Me.Button7.UseVisualStyleBackColor = True
         '
         'Button6
@@ -103,7 +103,7 @@ Partial Class frm_MENUPRINCIPAL
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(125, 67)
         Me.Button4.TabIndex = 168
-        Me.Button4.Text = "Ejercicio 18   Determinar si fecha es  Navidad"
+        Me.Button4.Text = "Ejercicio 34  Leer 2 Listas y compararlas"
         Me.Button4.UseVisualStyleBackColor = True
         '
         'Button3
@@ -146,7 +146,7 @@ Partial Class frm_MENUPRINCIPAL
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(263, 26)
         Me.Label1.TabIndex = 164
-        Me.Label1.Text = "EJERCICIOS DEL 15 AL 30"
+        Me.Label1.Text = "EJERCICIOS DEL 31 AL 40"
         '
         'btnSalir
         '
